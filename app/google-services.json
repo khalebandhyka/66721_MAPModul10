@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "730572939944",
+    "project_id": "fir-authentication-88a1f",
+    "storage_bucket": "fir-authentication-88a1f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730572939944:android:b7c92f9073ce7aea77589d",
+        "android_client_info": {
+          "package_name": "com.example.tugaslabweek10"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJBiFO0UWDnQbmbyq2osoirh6deQ0SOxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
